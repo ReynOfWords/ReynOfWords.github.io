@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-After using various web applications that work and getting frustrated by what I thought were errors in their design, I decided to try to learn the craft of building applications so that I could try to do better. So here's the first steps on my thousand mile journey.
+After using various web applications at work and getting frustrated by what I thought were errors in their design, I decided to try to learn the craft of building applications so that I could try to do better. So here's the first steps on my thousand mile journey.
 
 Most of them will probably be backwards.
 
