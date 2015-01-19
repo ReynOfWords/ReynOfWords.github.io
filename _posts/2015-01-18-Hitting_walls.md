@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Week 2: Hitting invisible walls
+title: Hitting invisible walls
 ---
 
 Unfortunately for me, the easiest way to find invisible walls is to run into them face first. This last week I hit two of them.
