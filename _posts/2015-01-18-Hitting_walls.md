@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 layout: post
 title: Hitting invisible walls
@@ -21,5 +20,3 @@ Thankfully, Git is made to deal with mistakes, and despite some panicking at a l
 And while I might be making another mistake, I've added another piece of software to my learning list. I decided to purchase the home version of Dragon Naturally Speaking in an attempt to reduce the total typing I do. Learning so many new things at once may prove to be an issue, but it hasn't been too difficult as I dictate this post, and Markdown is an easy thing to add after writing the copy, so I think it will be worth it. I'll continue to work on my typing skills in order to make coding faster, since I don't think Dragon will lend itself well to all the extra punctuation that most programming languages require. But every keystroke saved helps.
 
 For the next week, I'm setting myself the project of laying out some more concrete steps toward my programming goals, including making the very general goal of "learning to program" a set of much more specific goals. This is something I know I'm pretty bad at, so we'll see how far I get.
-
->>>>>>> 858677f145a8d364e90705a9c5fb8c716f0dfdd2
