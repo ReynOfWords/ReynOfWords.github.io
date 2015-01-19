@@ -10,7 +10,7 @@ Most of them will probably be backwards.
 
 ### More Information
 
-I have a general interest in psychology, philosophy, science and critical thinking, from which I derive a belief that I might not totally fail at this programming thing. When I need to procrastinate I enjoy reading about anything except what I need to be doing, or playing board and card games. 
+I have a general interest in psychology, philosophy, science and critical thinking, from which I derive a belief that I might not *totally* fail at this programming thing. When I need to procrastinate I enjoy reading about anything except what I need to be doing, or playing board and card games. 
 
 ### Contact me
 
