@@ -1,6 +1,7 @@
+<<<<<<< HEAD
 ---
 layout: post
-title: Week 2: Hitting invisible walls
+title: Hitting invisible walls
 ---
 
 Unfortunately for me, the easiest way to find invisible walls is to run into them face first. This last week I hit two of them.
@@ -21,4 +22,4 @@ And while I might be making another mistake, I've added another piece of softwar
 
 For the next week, I'm setting myself the project of laying out some more concrete steps toward my programming goals, including making the very general goal of "learning to program" a set of much more specific goals. This is something I know I'm pretty bad at, so we'll see how far I get.
 
-tags: #gettingstarted
+>>>>>>> 858677f145a8d364e90705a9c5fb8c716f0dfdd2
