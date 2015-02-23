@@ -14,3 +14,5 @@ So I went to an [html reference](http://www.w3schools.com/tags/tag_br.asp "w3sch
 I wonder how many other differences I'm going to run into.
 
 It appears all tags require closing. Just ran into the same issue with `<img>`.
+
+Onward to making tiny changes one at a time, see if they do what I expect, and then change them again. Yay, iterative learning!
